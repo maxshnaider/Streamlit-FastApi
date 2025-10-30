@@ -1,0 +1,1 @@
+Streamlit + FastApi app
