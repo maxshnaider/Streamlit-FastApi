@@ -1,9 +1,9 @@
-tiktoken
-openai
-protobuf
-pydantic
-python-dotenv
 fastapi
 uvicorn
-streamlit
+google-generativeai
+openai
+tiktoken
+python-dotenv
 requests
+streamlit
+python-multipart
